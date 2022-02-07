@@ -1,7 +1,7 @@
 package cuentas;
 /**
  * 
- * @author Pepote
+ * @author Sergio Pedrero Benedi
  *
  */
 public class CCuenta {
@@ -40,7 +40,7 @@ public class CCuenta {
      * @param nom parametro para poder asignar nombre al objeto a instanciar
      * @param cue parametro para poder asignar numero de cuenta al objeto a instanciar
      * @param sal parametro para poder asignar saldo al objeto a instanciar 
-     * @param tipoparametro para poder asignar tipo al objeto a instanciar
+     * @param tipo parametro para poder asignar tipo al objeto a instanciar
      */
     public CCuenta(String nom, String cue, double sal, double tipo)
     {
